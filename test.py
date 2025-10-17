@@ -40,6 +40,6 @@ if __name__ == "__main__":
     except ValueError:
         print("Please enter a valid number.")
 
-if __name__ == "__main__":updated
+if __name__ == "__main__":updatedgit 
     main()
 
